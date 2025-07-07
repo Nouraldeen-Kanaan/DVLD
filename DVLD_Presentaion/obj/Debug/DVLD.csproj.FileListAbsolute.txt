@@ -1,0 +1,9 @@
+E:\DVLD\bin\Debug\DVLD.exe.config
+E:\DVLD\bin\Debug\DVLD.exe
+E:\DVLD\bin\Debug\DVLD.pdb
+E:\DVLD\obj\Debug\DVLD.csproj.AssemblyReference.cache
+E:\DVLD\obj\Debug\DVLD.Properties.Resources.resources
+E:\DVLD\obj\Debug\DVLD.csproj.GenerateResource.cache
+E:\DVLD\obj\Debug\DVLD.csproj.CoreCompileInputs.cache
+E:\DVLD\obj\Debug\DVLD.exe
+E:\DVLD\obj\Debug\DVLD.pdb
